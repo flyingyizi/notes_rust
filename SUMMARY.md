@@ -79,7 +79,6 @@
     - [所有权 Ownership](docs/9.memory_security.md#所有权-ownership)
     - [借用 Borrowing](docs/9.memory_security.md#借用-borrowing)
 
-
 * [embedded](docs/embedded/0.prepare.md)
   - [0.预准备](docs/embedded/0.prepare.md#0预准备)
     - [which target?](docs/embedded/0.prepare.md#which-target)
